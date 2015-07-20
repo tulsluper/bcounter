@@ -1,2 +1,2 @@
-# bcounters
+# bcounter
 Brocade SNMP counters collector
